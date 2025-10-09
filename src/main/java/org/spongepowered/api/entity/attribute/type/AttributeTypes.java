@@ -47,6 +47,8 @@ public final class AttributeTypes {
 
     public static final DefaultedRegistryReference<RangedAttributeType> GENERIC_ATTACK_DAMAGE = AttributeTypes.key(ResourceKey.minecraft("generic.attack_damage"));
 
+    public static final DefaultedRegistryReference<RangedAttributeType> GENERIC_ATTACK_REACH = AttributeTypes.key(ResourceKey.minecraft("generic.attack_reach"));
+
     public static final DefaultedRegistryReference<RangedAttributeType> GENERIC_ATTACK_KNOCKBACK = AttributeTypes.key(ResourceKey.minecraft("generic.attack_knockback"));
 
     public static final DefaultedRegistryReference<RangedAttributeType> GENERIC_ATTACK_SPEED = AttributeTypes.key(ResourceKey.minecraft("generic.attack_speed"));
